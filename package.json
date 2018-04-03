@@ -1,0 +1,7 @@
+{
+  "name": "stylelint-config",
+  "version": "0.0.1",
+  "description": "Stylelint configuration based on stylelint-config-recommended-scss",
+  "author": "Edvinas Jurele",
+  "license": "UNLICENSED"
+}
